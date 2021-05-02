@@ -7,6 +7,8 @@ def Parser_MAF_File(Path, output_file):
     The objective of this function is transformate one .maf file in a .txt file that serves as input to nCOP algorithm
     Path = the path of .maf file
     output_file = the name of the output file
+    This is a test
+    okay?
     '''
     
     print ("Reading arquive...")
